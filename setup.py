@@ -21,7 +21,7 @@ setup(
         "tqdm",
         "typing_extensions",
         "portalocker",
-        "dataclasses; python_version<'3.7'",
+        "dataclasses",
     ],
     extras_require={
         "aws": [
